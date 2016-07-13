@@ -55,7 +55,7 @@ A：不同网络环境（如固定宽带、移动数据等）都会对翻墙的�
 ## 使用方法
 非常简单，直接访问下列网站即可：
 
-* [https://w1.bypassgfw.xyz/wiki/Wikipedia:%E9%A6%96%E9%A1%B5]()
+* [https://w1.bypassgfw.xyz/wiki/Wikipedia:%E9%A6%96%E9%A1%B5](https://w1.bypassgfw.xyz/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
 
 ----
 
