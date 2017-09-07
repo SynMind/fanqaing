@@ -1,7 +1,8 @@
 
 ![Chinese Wikipedia Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wikipedia-logo-v2-zh-hans.svg/209px-Wikipedia-logo-v2-zh-hans.svg.png)
 
-维基百科介绍了一些翻墙软件[突破网络审查](https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5#.E7.9B.B8.E5.85.B3.E7.A0.B4.E7.BD.91.E8.BD.AF.E4.BB.B6.28.E5.B7.A5.E5.85.B7.29)
+维基百科也介绍了一些翻墙软件[突破网络审查](https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5#.E7.9B.B8.E5.85.B3.E7.A0.B4.E7.BD.91.E8.BD.AF.E4.BB.B6.28.E5.B7.A5.E5.85.B7.29)
+
 本文将介绍维基百科在中国大陆的访问状况和在中国访问维基百科的方法。
 
 **本文更新于 2016 年 7 月。当您阅读到这篇文章时可能情况发生了变化。**
